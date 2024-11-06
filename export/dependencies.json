@@ -1,0 +1,46 @@
+[
+  {
+    "id": "METRONOMO",
+    "file": "media\\METRONOMO.mp3"
+  },
+  {
+    "id": "drumBuff1",
+    "file": "media\\BATTERIA.mp3"
+  },
+  {
+    "id": "bassBuff1",
+    "file": "media\\BASSO.mp3"
+  },
+  {
+    "id": "voce2",
+    "file": "media\\VOCE2.mp3"
+  },
+  {
+    "id": "voce1",
+    "file": "media\\VOCE1.mp3"
+  },
+  {
+    "id": "synthSolo",
+    "file": "media\\synthSolo.mp3"
+  },
+  {
+    "id": "fiati",
+    "file": "media\\FIATI.mp3"
+  },
+  {
+    "id": "organ",
+    "file": "media\\ORGAN.mp3"
+  },
+  {
+    "id": "clavi",
+    "file": "media\\CLAVI.mp3"
+  },
+  {
+    "id": "S_chitarraBuff1",
+    "file": "media\\GUITAR_SOLO.mp3"
+  },
+  {
+    "id": "R_chitarraBuff1",
+    "file": "media\\CHITARRA_RITMICA.mp3"
+  }
+]
